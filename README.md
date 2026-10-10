@@ -29,11 +29,11 @@
 ---
 
 ### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=elanghovansabareesh0921-cell&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elanghovansabareesh0921-cell&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_ACTUAL_USERNAME&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
-
 ---
 
 ### 📬 Connect With Me
