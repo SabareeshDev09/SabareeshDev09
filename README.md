@@ -31,8 +31,8 @@
 ### 📊 GitHub Activity
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_ACTUAL_USERNAME&theme=radical" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ACTUAL_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=SabareeshDev09&theme=radical" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabareeshDev09&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 ---
 
