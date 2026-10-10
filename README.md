@@ -6,9 +6,9 @@
 ---
 
 ### 👨‍💻 About Me
-* 🎓 B.Tech in **Computer Science and Engineering (Artificial Intelligence & Machine Learning)** at SRM Institute of Science and Technology, Ramapuram[cite: 1].
+* 🎓 B.Tech in **Computer Science and Engineering (Artificial Intelligence & Machine Learning)** at SRM Institute of Science and Technology, Ramapuram
 * 💡 Interested in core programming, algorithms, machine learning workflows, and modern web technologies.
-* 🌱 Actively strengthening foundations in Data Structures & Algorithms, C, Python, and AI/ML architectures[cite: 1].
+* 🌱 Actively strengthening foundations in Data Structures & Algorithms, C, Python, and AI/ML architectures
 * 🗣️ Languages: **English, Tamil**.
 
 ---
@@ -38,4 +38,4 @@
 
 ### 📬 Connect With Me
 * **LinkedIn:** [sabareesh-elanghovan](https://www.linkedin.com/in/sabareesh-elanghovan-b3187837a/)
-* **Email:** [elanghovansabareesh0921@gmail.com](mailto:elanghovansabareesh0921@gmail.com)[cite: 1]
+* **Email:** [elanghovansabareesh0921@gmail.com](mailto:elanghovansabareesh0921@gmail.com)
